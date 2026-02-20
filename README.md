@@ -1,4 +1,4 @@
-# AI Project: Assignment 1 and Frog Game
+ Frog Game
 
 This repository contains solutions and tasks related to Artificial Intelligence. The project includes a game-related search problem.
 
